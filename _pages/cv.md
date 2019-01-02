@@ -9,16 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* High School Degree with honors, High School Les Iris Lormont, 2014
-* B.S. in Computer Science, Ynov Informatique Ingésup Bordeaux, 2017
-  * Machine Learning MOOC from Stanford,  Coursera, 2016 - [Certificate](https://www.coursera.org/account/accomplishments/verify/THPBUVAWZ88P)
+## Education
 * M.S. in Data Science, Ynov Informatique Ingésup Bordeaux, Current
   * Linear Algebra MOOC from EPFL, edX, 2018 - [Certificate Part 1](https://courses.edx.org/certificates/72bfb71967104d6abc0b98ab45375375) - [Certificate Part 2](https://courses.edx.org/certificates/00fd06dc31a04486b88f8d60d0ae6ff1) - [Certificate Part 3](https://courses.edx.org/certificates/35bd9e3295cd472ebfcc4c789d5e584c)
+* B.S. in Computer Science, Ynov Informatique Ingésup Bordeaux, 2017
+  * Machine Learning MOOC from Stanford,  Coursera, 2016 - [Certificate](https://www.coursera.org/account/accomplishments/verify/THPBUVAWZ88P)
+* High School Degree with honors, High School Les Iris Lormont, 2014
 
-Work experience
-======
+## Work experience
 * October 2017 - Current : Part time Data Scientist - Weenove
   * In charge of the Machine Learning R&D
     * Implemented an Automated Machine Learning service
@@ -55,8 +53,7 @@ Work experience
   * Microsoft environment : Azure, Visual Studio, WCF, TFS
   * Analysis of Open Data
   
-Skills
-======
+## Skills
 * Machine Learning
 * Deep Learning
 * Reinforcement Learning
@@ -70,8 +67,7 @@ Skills
   * Linux
   * Docker
 
-Languages
-======
+## Languages
 * French : Native Speaker
 * English : Advanced
   * TOIEC : 980/990
@@ -82,20 +78,17 @@ Languages
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Talks
-======
-  <ul>{% for post in site.talks %}
+## Talks
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
+## Teaching
+  <ul>{% for post in site.teaching reversed %}
     <!-- {% include archive-single-cv.html %} -->
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-# TODO
-* Co-founder and 
+## Sercice and leadership
+* Co-founded and directing the AI working group of Ingésup Bordeaux
+* Co-founded and animating the [meetup "Les nuits des réseaux de neurones"](https://www.meetup.com/fr-FR/Les-nuits-des-reseaux-de-neurones/)

@@ -31,7 +31,7 @@ Everything can be found on the [Major's Website](https://majeure-ml-ingesup.gith
 
 - Machine Learning Algorithms
   - Logistic Regression
-  - Decision Treses
+  - Decision Trees
   - SVM
   - Ensemble Techniques (Stacking, Boostrapping, Boosting)
   - Random Forest
@@ -62,7 +62,7 @@ Everything can be found on the [Major's Website](https://majeure-ml-ingesup.gith
 
   - Architectures
     - Convolutional
-    - Reccurent (LSTM)
+    - Recurrent (LSTM)
     - GANs
 
   - Methodology
@@ -75,7 +75,7 @@ Everything can be found on the [Major's Website](https://majeure-ml-ingesup.gith
 
 - Bias and Interpretability
   - Biases in data
-  - Adversarial samples
+  - Adversarial examples
   - LIME
   - SHAP
 
