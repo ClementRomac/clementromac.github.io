@@ -1,5 +1,6 @@
 ---
 title: "Machine Learning Major"
+excerpt: "Taught 90 hours of the Data Science Master's Machine Learning Major with Pierre Leroy at Ingesup."
 collection: teaching
 type: "Master's degree course"
 permalink: /teaching/2018-majeure-ml
