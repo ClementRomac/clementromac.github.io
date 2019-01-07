@@ -1,6 +1,7 @@
 ---
-title: "Deep Q-Learning TicTacToe"
-<!-- excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>" -->
+title: "Gym TicTacToe"
+excerpt: "Gym TicTacToe is a light TicTacToe environment for OpenAI Gym."
 collection: projects
+date: 2018-08-25
 ---
 

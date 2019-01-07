@@ -1,6 +1,7 @@
 ---
-title: "Deep Q-Learning TicTacToe"
-<!-- excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>" -->
+title: "Minecraft Reinforcement Learning"
+excerpt: "Applying Deep Recurrent Q-Learning to a Minecraft environment."
 collection: projects
+date: 2018-09-10
 ---
 

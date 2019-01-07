@@ -2,6 +2,7 @@
 title: "Les nuits des réseaux de neurones - AI agent playing Minecraft"
 collection: talks
 type: "Talk"
+excerpt: For the fifth session of "Les nuits des réseaux de neurones", Vincent Béraud and I made a talk about a project we had been working on for several month, applying Deep Recurrent Q-Learning to a Minecraft environment.
 permalink: /talks/2018-06-08-minecraft-drqn
 venue: "Ecole La Piscine"
 date: 2018-06-08

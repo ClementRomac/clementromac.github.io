@@ -1,6 +1,8 @@
 ---
 title: "Deep Q-Learning TicTacToe"
-<!-- excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>" -->
+excerpt: "Deep Q-Learning applied to Tic-Tac-Toe."
 collection: projects
+date: 2017-05-15
 ---
 
+Test
