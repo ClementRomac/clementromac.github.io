@@ -16,3 +16,11 @@ Our work was inspired by [the work of Arthur Juliani](https://github.com/awjulia
 You can find all our work on [our repository](https://github.com/vincentberaud/Minecraft-Reinforcement-Learning).
 
 You can also find the talk we made about this project [here](http://localhost:4000/talks/2018-06-08-minecraft-drqn).
+
+
+### References :
+- [Human-level control through deep reinforcement learning](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)
+- [Deep Recurrent Q-Learning for Partially Observable MDPs - Matthew Hausknecht and Peter Stone](https://arxiv.org/pdf/1507.06527.pdf)
+- [Deep Reinforcement Learning with Double Q-learning - Hado van Hasselt and Arthur Guez and David Silver](https://arxiv.org/pdf/1509.06461.pdf)
+- [Teacher-Student Curriculum Learning - Tambet Matiisen and Avital Oliver and Taco Cohen and John Schulman](https://arxiv.org/pdf/1707.00183.pdf)
+- [Deep Learning for Video Game Playing - Niels Justesen and Philip Bontrager and Julian Togelius and Sebastian Risi](https://arxiv.org/pdf/1708.07902.pdf)
