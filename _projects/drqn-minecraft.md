@@ -5,7 +5,7 @@ collection: projects
 date: 2018-09-10
 ---
 
-Vincent Beraud, Pierre Leroy and I made a research work on applying Deep Reinforcement and more specially Deep Recurrent Q-Learning to a Minecraft environment.
+[Vincent Beraud](https://www.linkedin.com/in/vincent-beraud/), [Pierre Leroy](https://www.linkedin.com/in/pierreleroyfr/) and I made a research work on applying Deep Reinforcement and more specially Deep Recurrent Q-Learning to a Minecraft environment.
 
 We used [gym-minecraft](https://github.com/tambetm/gym-minecraft) to access the [Malmo project](https://github.com/Microsoft/malmo) with an [OpenAI Gym](https://gym.openai.com/) like API. We also used Tensorflow.
 

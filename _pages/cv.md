@@ -48,7 +48,7 @@ redirect_from:
     * R
     * C#
 
-* Summer 2015: Intern Developper - Weenove
+* Summer 2015: Intern Developer - Weenove
   * C# development of a Business Intelligence Software (Biwee)
   * Microsoft environment : Azure, Visual Studio, WCF, TFS
   * Analysis of Open Data

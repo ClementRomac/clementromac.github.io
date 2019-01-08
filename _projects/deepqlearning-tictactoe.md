@@ -5,7 +5,7 @@ collection: projects
 date: 2017-05-15
 ---
 
-During my third year at Ingésup, I used Deep Q-Learning to solve a Tic-Tac-Toe game. I wanted to use Reinforcement Learning, a domain I'm very interested in, through a project for the first time. I made this project in collaboration with Nicolas Luvison, another Ingésup student.
+During my third year at Ingésup, I used Deep Q-Learning to solve a Tic-Tac-Toe game. I wanted to use Reinforcement Learning, a domain I'm very interested in, through a project for the first time. I made this project in collaboration with [Nicolas Luvison](https://www.linkedin.com/in/nicolas-luvison/), another Ingésup student.
 
 We implemented in Python a light version of the Tic-Tac-Toe game and used a FeedForward Neural Network (with Keras) with an experience replay buffer to approximate the Q-Value. We used an ε-greedy strategy to handle the exploration.
 

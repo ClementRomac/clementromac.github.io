@@ -9,7 +9,7 @@ date: 2018-06-08
 location: "Talence, France"
 ---
 
-For the fifth session of ["Les nuits des réseaux de neurones"](https://www.meetup.com/fr-FR/Les-nuits-des-reseaux-de-neurones/events/250810782/), wich was held at [La Piscine Bordeaux](https://www.lapiscine.pro/), Vincent Béraud and I made a talk about a project we had been working on for several month : Applying Deep Recurrent Q-Learning to a Minecraft environment.
+For the fifth session of ["Les nuits des réseaux de neurones"](https://www.meetup.com/fr-FR/Les-nuits-des-reseaux-de-neurones/events/250810782/), wich was held at [La Piscine Bordeaux](https://www.lapiscine.pro/), [Vincent Béraud](https://www.linkedin.com/in/vincent-beraud/) and I made a talk about a project we had been working on for several month : Applying Deep Recurrent Q-Learning to a Minecraft environment.
 
 We introduced Deep Q-Learning and explained our work. We also showed the results we obtained.
 

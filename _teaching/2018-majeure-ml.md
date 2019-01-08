@@ -11,7 +11,7 @@ location: "Bordeaux, France"
 
 
 
-Taught 90 hours with Pierre Leroy to Master's degree students (mostly from computer science). 
+Taught 90 hours with [Pierre Leroy](https://www.linkedin.com/in/pierreleroyfr/) to Master's degree students (mostly from computer science). 
 Everything can be found on the [Major's Website](https://majeure-ml-ingesup.github.io).
 
 ## Syllabus
