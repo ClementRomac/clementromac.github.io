@@ -1,17 +1,17 @@
 ---
 title: "Machine Learning Major"
-excerpt: "Taught 90 hours of the Data Science Master's Machine Learning Major with Pierre Leroy at Ingesup."
+excerpt: "Taught the 90 hours Machine Learning Major for the third year students specialized in Data Science with Pierre Leroy at Ingesup."
 collection: teaching
-type: "Master's degree course"
+type: "Third year students course"
 permalink: /teaching/2018-majeure-ml
-venue: "Ynov Informatique (Ingesup), Data Science Master"
+venue: "Ynov Informatique (Ingesup), Data Science Specialization"
 date: 2018-11-15
 location: "Bordeaux, France"
 ---
 
 
 
-Taught 90 hours with [Pierre Leroy](https://www.linkedin.com/in/pierreleroyfr/) to Master's degree students (mostly from computer science). 
+Taught 90 hours with [Pierre Leroy](https://www.linkedin.com/in/pierreleroyfr/) to third year students (mostly from computer science). 
 Everything can be found on the [Major's Website](https://majeure-ml-ingesup.github.io).
 
 ## Syllabus
