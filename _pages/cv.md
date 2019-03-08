@@ -10,9 +10,8 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* M.S. in Data Science, Ynov Informatique Ingésup Bordeaux, Current
+* MSc in Computer Science (with a Data Science specialization), Ynov Informatique Ingésup Bordeaux, Current
   * Linear Algebra MOOC from EPFL, edX, 2018 - [Certificate Part 1](https://courses.edx.org/certificates/72bfb71967104d6abc0b98ab45375375) - [Certificate Part 2](https://courses.edx.org/certificates/00fd06dc31a04486b88f8d60d0ae6ff1) - [Certificate Part 3](https://courses.edx.org/certificates/35bd9e3295cd472ebfcc4c789d5e584c)
-* B.S. in Computer Science, Ynov Informatique Ingésup Bordeaux, 2017
   * Machine Learning MOOC from Stanford,  Coursera, 2016 - [Certificate](https://www.coursera.org/account/accomplishments/verify/THPBUVAWZ88P)
 * High School Degree with honors, High School Les Iris Lormont, 2014
 
@@ -89,6 +88,6 @@ redirect_from:
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-## Sercice and leadership
+## Service and leadership
 * Co-founded and directing the AI working group of Ingésup Bordeaux
 * Co-founded and animating the [meetup "Les nuits des réseaux de neurones"](https://www.meetup.com/fr-FR/Les-nuits-des-reseaux-de-neurones/)
