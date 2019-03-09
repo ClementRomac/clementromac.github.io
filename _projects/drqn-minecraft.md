@@ -1,21 +1,21 @@
 ---
 title: "Minecraft Reinforcement Learning"
-excerpt: "Applying Deep Recurrent Q-Learning to a Minecraft environment."
+excerpt: "Deep Recurrent Q-Learning vs Deep Q Learning on a simple Partially Observable Markov Decision Process with Minecraft."
 collection: projects
 date: 2018-09-10
 ---
 
 [Vincent Beraud](https://www.linkedin.com/in/vincent-beraud/), [Pierre Leroy](https://www.linkedin.com/in/pierreleroyfr/) and I made a research work on applying Deep Reinforcement and more specially Deep Recurrent Q-Learning to a Minecraft environment.
 
-We used [gym-minecraft](https://github.com/tambetm/gym-minecraft) to access the [Malmo project](https://github.com/Microsoft/malmo) with an [OpenAI Gym](https://gym.openai.com/) like API. We also used Tensorflow.
+We compared Deep Recurrent Q-Learning and Deep Q-Learning on two simple missions in a Partially Observable Markov Decision Process (POMDP) based on Minecraft environment. We used gym-minecraft which allows the use of the MalmoProject with an OpenAI like API.
 
-Minecraft can be viewed as a Partially Observable Markov Decision Process (POMDP), we thus used a Convolutional Neural Network with LSTM cells. We also used Deep Q-Learning techniques such as experience replay buffer, Double Q-Learning and ε-greedy exploration.
+We used [gym-minecraft](https://github.com/tambetm/gym-minecraft) to access the [Malmo project](https://github.com/Microsoft/malmo) with an [OpenAI Gym](https://gym.openai.com/) like API. We also used Tensorflow.
 
 Our work was inspired by [the work of Arthur Juliani](https://github.com/awjuliani/DeepRL-Agents).
 
 You can find all our work on [our repository](https://github.com/vincentberaud/Minecraft-Reinforcement-Learning).
 
-You can also find the talk we made about this project [here](http://localhost:4000/talks/2018-06-08-minecraft-drqn).
+You can also find the talk we made about this project [here]({{ site.url }}/talks/2018-06-08-minecraft-drqn).
 
 
 ### References :
