@@ -14,4 +14,4 @@ For the fifth session of ["Les nuits des réseaux de neurones"](https://www.meet
 We introduced Deep Q-Learning and explained our work. We also showed the results we obtained.
 
 You can find more informations about this project on my [project page]({{ site.url }}/projects/drqn-minecraft) and on the [GitHub repository](https://github.com/vincentberaud/Minecraft-Reinforcement-Learning). 
-Our slides can be found <a href="{{ site.url }}/files/Minecraft_DRQN.pdf"><i class="fas fa-file-pdf"></i> here</a>.
+Our slides can be found <a href="{{ site.url }}/files/Minecraft_DRQN.pdf">here</a>.

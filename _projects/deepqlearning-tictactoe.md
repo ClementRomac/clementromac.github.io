@@ -9,6 +9,6 @@ During my third year at Ingésup, I used Deep Q-Learning to solve a Tic-Tac-Toe 
 
 We implemented in Python a light version of the Tic-Tac-Toe game and used a FeedForward Neural Network (with Keras) with an experience replay buffer to approximate the Q-Value. We used an ε-greedy strategy to handle the exploration.
 
-We first trained the Agent to play against a player plating randomly and then trained it against itself. The best trained version was able to defend against the majority of strategies and was also able to win with strategies such as diagonals for instance. 
+We first trained the Agent to play against a player playing randomly and then trained it against itself. The best trained version was able to defend against the majority of strategies and was also able to win with strategies such as diagonals for instance. 
 
 You can find the details and the code on our [GitHub repository](https://github.com/ClementRomac/DeepQLearning-TicTacToe).

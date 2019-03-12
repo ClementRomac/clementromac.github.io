@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can download my full CV <a href="{{ site.url }}/files/CV_ROMAC_Clement.pdf" download>here <i class="fa fa-download"></i></a>.
+
 ## Education
 * MSc in Computer Science (with a Data Science specialization), Ynov Informatique Ingésup Bordeaux, Current
   * Linear Algebra MOOC from EPFL, edX, 2018 - [Certificate Part 1](https://courses.edx.org/certificates/72bfb71967104d6abc0b98ab45375375) - [Certificate Part 2](https://courses.edx.org/certificates/00fd06dc31a04486b88f8d60d0ae6ff1) - [Certificate Part 3](https://courses.edx.org/certificates/35bd9e3295cd472ebfcc4c789d5e584c)
