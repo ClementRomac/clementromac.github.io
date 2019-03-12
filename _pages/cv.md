@@ -73,11 +73,10 @@ You can download my full CV <a href="{{ site.url }}/files/CV_ROMAC_Clement.pdf" 
 * English : Advanced
   * TOIEC : 980/990
 
-<!-- Publications
-======
+## Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
   
 ## Talks
   <ul>{% for post in site.talks reversed %}

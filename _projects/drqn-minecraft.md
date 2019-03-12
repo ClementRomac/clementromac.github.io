@@ -11,7 +11,7 @@ We compared Deep Recurrent Q-Learning and Deep Q-Learning on two simple missions
 
 We used [gym-minecraft](https://github.com/tambetm/gym-minecraft) to access the [Malmo project](https://github.com/Microsoft/malmo) with an [OpenAI Gym](https://gym.openai.com/) like API. We also used Tensorflow.
 
-Our work was inspired by [the work of Arthur Juliani](https://github.com/awjuliani/DeepRL-Agents).
+Our paper can be found [here]({{ site.url }}/publication/2019-03-11-DQRN_vs_DQN_Minecraft).
 
 You can find all our work on [our repository](https://github.com/vincentberaud/Minecraft-Reinforcement-Learning).
 
