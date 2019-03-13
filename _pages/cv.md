@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my full CV <a href="{{ site.url }}/files/CV_ROMAC_Clement.pdf" download>here <i class="fa fa-download"></i></a>.
+You can download my complete CV <a href="{{ site.url }}/files/CV_ROMAC_Clement.pdf" download>here <i class="fa fa-download"></i></a>.
 
 ## Education
 * MSc in Computer Science (with a Data Science specialization), Ynov Informatique Ingésup Bordeaux, Current
