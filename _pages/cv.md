@@ -12,10 +12,11 @@ redirect_from:
 You can download my complete CV <a href="{{ site.url }}/files/CV_ROMAC_Clement.pdf" download>here <i class="fa fa-download"></i></a>.
 
 ## Education
-* MSc in Computer Science (with a Data Science specialization), Ynov Informatique Ingésup Bordeaux, Current
+* MSc in Computer Science (Algorithms and Models specialisation), University of Bordeaux, Current
+* MSc in Computer Science (with a Data Science specialisation), Ynov Informatique Ingésup Bordeaux, 2019
   * Linear Algebra MOOC from EPFL, edX, 2018 - [Certificate Part 1](https://courses.edx.org/certificates/72bfb71967104d6abc0b98ab45375375) - [Certificate Part 2](https://courses.edx.org/certificates/00fd06dc31a04486b88f8d60d0ae6ff1) - [Certificate Part 3](https://courses.edx.org/certificates/35bd9e3295cd472ebfcc4c789d5e584c)
   * Machine Learning MOOC from Stanford,  Coursera, 2016 - [Certificate](https://www.coursera.org/account/accomplishments/verify/THPBUVAWZ88P)
-* High School Degree with honours, High School Les Iris Lormont, 2014
+* High School Diploma with honours, High School Les Iris Lormont, 2014
 
 ## Work experience
 * October 2017 - Current : Part time Data Scientist - Weenove
