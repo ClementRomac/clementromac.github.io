@@ -72,7 +72,7 @@ You can download my complete CV <a href="{{ site.url }}/files/CV_ROMAC_Clement.p
 ## Languages
 * French : Native Speaker
 * English : Advanced
-  * TOIEC : 980/990
+  * TOEIC : 980/990
 
 ## Publications
   <ul>{% for post in site.publications %}
