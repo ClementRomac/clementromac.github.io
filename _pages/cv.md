@@ -19,7 +19,10 @@ You can download my complete CV <a href="{{ site.url }}/files/CV_ROMAC_Clement.p
 * High School Diploma with honours, High School Les Iris Lormont, 2014
 
 ## Work experience
-* October 2017 - Current : Part time Data Scientist - Weenove
+* March 2020 - Current : Research Intern - Inria
+  * Working on an experimental platform for Curriculum Learning applied to Deep Reinforcement Learning algorithms
+  
+* October 2017 - February 2020 : Part time Data Scientist - Weenove
   * In charge of the Machine Learning R&D
     * Implemented an Automated Machine Learning service
     * Made this service available (Beta) in a Business Intelligence Software (Biwee)
