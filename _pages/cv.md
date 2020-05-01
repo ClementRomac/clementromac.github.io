@@ -19,7 +19,7 @@ You can download my complete CV <a href="{{ site.url }}/files/CV_ROMAC_Clement.p
 * High School Diploma with honours, High School Les Iris Lormont, 2014
 
 ## Work experience
-* March 2020 - Current : Research Intern - Inria
+* March 2020 - August 2020 : Research Intern - Inria
   * Working on an experimental platform for Curriculum Learning applied to Deep Reinforcement Learning algorithms
   
 * October 2017 - February 2020 : Part time Data Scientist - Weenove
@@ -94,5 +94,6 @@ You can download my complete CV <a href="{{ site.url }}/files/CV_ROMAC_Clement.p
   {% endfor %}</ul>
   
 ## Service and leadership
-* Co-founded and directing the AI working group of Ingésup Bordeaux
-* Co-founded and animating the [meetup "Les nuits des réseaux de neurones"](https://www.meetup.com/fr-FR/Les-nuits-des-reseaux-de-neurones/)
+* Co-founded and directed (until 2019) the AI working group of Ingésup Bordeaux
+* Co-founded and animated (until 2019) the [meetup "Les nuits des réseaux de neurones"](https://www.meetup.com/fr-FR/Les-nuits-des-reseaux-de-neurones/)
+* Co-organizer of the [meetup "Bordeaux Machine Learning Meetup"](https://www.meetup.com/fr-FR/Bordeaux-Machine-Learning-Meetup/)
