@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I’m Clément Romac. After obtaining my High School Diploma with honours, I started studying Computer Science at Ingesup in France. During my second year I co-created a working group with the goal to work on Artificial Intelligence projects. I discovered there fields such as Machine Learning, Deep Learning and Reinforcement Learning. I then got a Master’s Degree at Ingesup specialised in Data Science while working in part time on Automated Machine Learning R&D in a startup called Weenove. I am now studying in the Computer Science Master at the University of Bordeaux with the objective of doing a PhD.
+Hi, I’m Clément Romac. After obtaining my High School Diploma with honours, I started studying Computer Science at Ingesup in France. During my second year I co-created a working group with the goal to work on Artificial Intelligence projects. I discovered there fields such as Machine Learning, Deep Learning and Reinforcement Learning. I then got a Master’s Degree at Ingesup specialised in Data Science while working in part time on Automated Machine Learning in a startup called Weenove. Following this, I obtained a MSc. in theoretical Computer Science at the University of Bordeaux and joined the FLOWERS team at Inria Bordeaux as a Research Engineer.
 
-I’ve also co-created and am animating a monthly [Meetup group](https://www.meetup.com/fr-FR/Les-nuits-des-reseaux-de-neurones/) where we spend a night discussing and doing projects on Neural Networks with diverse people (students, engineers, Data Scientists...). 
+I am aslo co-animating a monthly [Meetup group](https://www.meetup.com/fr-FR/Bordeaux-Machine-Learning-Meetup/) where we organize talks and workshops on Machine Learning. 
 
-I love sport (I've been playing football since I'm 6 years old) and music (I play bass guitar in a jazz fusion band).
+I love sport (I've been playing football since I am 6 years old) and music (I play bass guitar in a band).
