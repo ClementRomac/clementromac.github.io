@@ -13,17 +13,23 @@ You can download my complete CV <a href="{{ site.url }}/files/CV_ROMAC_Clement.p
 
 ## Education
 * MSc. in Computer Science (Algorithms and Models specialisation), University of Bordeaux, 2020
-* MSc. in Computer Science (with a Data Science specialisation), Ynov Informatique Ingésup Bordeaux, 2019
-  * Linear Algebra MOOC from EPFL, edX, 2018 - [Certificate Part 1](https://courses.edx.org/certificates/72bfb71967104d6abc0b98ab45375375) - [Certificate Part 2](https://courses.edx.org/certificates/00fd06dc31a04486b88f8d60d0ae6ff1) - [Certificate Part 3](https://courses.edx.org/certificates/35bd9e3295cd472ebfcc4c789d5e584c)
+* Degree in Computer Science engineering (with a Data Science specialisation), Ynov Informatique Ingésup Bordeaux, 2019
+  * Linear Algebra MOOC from EPFL, edX, 2018 - [C1](https://courses.edx.org/certificates/72bfb71967104d6abc0b98ab45375375) - [C2](https://courses.edx.org/certificates/00fd06dc31a04486b88f8d60d0ae6ff1) - [C3](https://courses.edx.org/certificates/35bd9e3295cd472ebfcc4c789d5e584c)
   * Machine Learning MOOC from Stanford,  Coursera, 2016 - [Certificate](https://www.coursera.org/account/accomplishments/verify/THPBUVAWZ88P)
 * High School Diploma with honours, High School Les Iris Lormont, 2014
 
 ## Work experience
 * September 2020 - Current : Research Engineer - Inria (FLOWERS team)
-  * Working on an experimental platform for Automated Discovery in Complex Systems 
+  * Working on an experimental platform to apply curiosity-driven algorithms in Complex Systems 
 
 * March 2020 - August 2020 : Research Intern - Inria (FLOWERS team)
-  * Worked on an experimental platform for Automatic Curriculum Learning applied to Deep Reinforcement Learning algorithms
+  * Worked on [TeachMyAgent](https://arxiv.org/abs/2103.09815), a benchmark platform for Automatic Curriculum Learning applied to Deep Reinforcement Learning algorithms
+    * Created procedurally generated Box2D environments and embodiments
+    * Implemented state-of-the-art Automatic Curriculum Learning methods
+    * Built a benchmark setup and benchmarked the methods
+    * *Paper accepted at ICML 21'*
+  * Work environment
+    * Python: Tensorflow
   
 * October 2017 - February 2020 : Part time Data Scientist - Weenove
   * In charge of the Machine Learning R&D
@@ -34,7 +40,7 @@ You can download my complete CV <a href="{{ site.url }}/files/CV_ROMAC_Clement.p
   * Work environment
     * Azure ML Services
     * Docker
-    * Python : Pandas, Scikit-Learn, Keras, Jupyter
+    * Python: Pandas, Scikit-Learn, Keras, Jupyter
     * C#
 
 * Summer 2017 : Intern Data Scientist - Scalian
@@ -43,8 +49,8 @@ You can download my complete CV <a href="{{ site.url }}/files/CV_ROMAC_Clement.p
     * Barcode localization on drone pictures with Deep Learning
     * Data Exploration project
   * Work environment
-    * Python : Pandas, Scikit-Learn, Flask, Tensorflow, Jupyter
-    * C++ : Qt Creator
+    * Python: Pandas, Scikit-Learn, Flask, Tensorflow, Jupyter
+    * C++: Qt Creator
 
 * June 2016 - May 2017 : Part time Intern Data Scientist - Weenove
   * Machine Learning R&D
@@ -52,13 +58,13 @@ You can download my complete CV <a href="{{ site.url }}/files/CV_ROMAC_Clement.p
     * Made this service available (Beta) in a Business Intelligence Software (Biwee)
   * Work environment
     * Azure ML Studio
-    * Python : Pandas, Scikit-Learn
+    * Python: Pandas, Scikit-Learn
     * R
     * C#
 
 * Summer 2015: Intern Developer - Weenove
   * C# development of a Business Intelligence Software (Biwee)
-  * Microsoft environment : Azure, Visual Studio, WCF, TFS
+  * Microsoft environment: Azure, Visual Studio, WCF, TFS
   * Analysis of Open Data
   
 ## Skills
@@ -66,7 +72,7 @@ You can download my complete CV <a href="{{ site.url }}/files/CV_ROMAC_Clement.p
 * Deep Learning
 * Reinforcement Learning
 * Development
-  * Python (Tensorflow, Keras, Scikit-Learn, Numpy)
+  * Python (Tensorflow, Scikit-Learn, Numpy)
   * C#
   * C++
   * JavaScript
@@ -99,4 +105,4 @@ You can download my complete CV <a href="{{ site.url }}/files/CV_ROMAC_Clement.p
 ## Service and leadership
 * Co-founded and directed (until 2019) the AI working group of Ingésup Bordeaux
 * Co-founded and animated (until 2019) the [meetup "Les nuits des réseaux de neurones"](https://www.meetup.com/fr-FR/Les-nuits-des-reseaux-de-neurones/)
-* Co-organizer of the [meetup "Bordeaux Machine Learning Meetup"](https://www.meetup.com/fr-FR/Bordeaux-Machine-Learning-Meetup/)
+* Co-organizer of the ["Bordeaux Machine Learning Meetup"](https://www.meetup.com/fr-FR/Bordeaux-Machine-Learning-Meetup/)
