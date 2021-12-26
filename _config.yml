@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Clément Romac"
   avatar           : "profile.jpg"
-  bio              : "Research Engineer at Inria (FLOWERS team). Interested in Machine Learning, Reinforcement Learning."
+  bio              : "PhD student at Hugging Face and Inria (FLOWERS team). Studying how autonomous Deep RL agents can leverage large Language Models."
   location         : "Bordeaux, France"
   employer         :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.fr/citations?user=L7YK6t0AAAAJ&hl=fr"
   email            : "clement[dot]romac[at]gmail[com]"
   uri              :
   bitbucket        :
@@ -110,7 +110,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCYtq1BM4rs_oxnNuFRuZ40Q"
   wikipedia        :
 
 
