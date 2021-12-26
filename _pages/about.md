@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hi, I’m Clément Romac. After obtaining my High School Diploma with honours, I graduated in Computer Science engineering from Ingesup with a Data Science specialisation, while part time working on Automated Machine Learning in a startup called Weenove. 
 
-Following this, I obtained a MSc. in theoretical Computer Science at the University of Bordeaux and joined the FLOWERS team at Inria Bordeaux as a Research Engineer working on [Automatic Curriculum Learning for Deep RL](http://localhost:4000/publication/2021-03-17) and automatic scientific discovery in complex systems (e.g. self-organizing). 
+Following this, I obtained a MSc. in theoretical Computer Science at the University of Bordeaux and joined the FLOWERS team at Inria Bordeaux as a Research Engineer working on [Automatic Curriculum Learning for Deep RL]({{ site.url }}/publication/2021-03-17) and automatic scientific discovery in complex systems (e.g. self-organizing). 
 
 I'm now a first year PhD student jointly supervised by Pierre-Yves Oudyer (FLOWERS, Inria) and Thomas Wolf (Hugging Face) studying how autonomous Deep RL agents can leverage large Language Models.
 
