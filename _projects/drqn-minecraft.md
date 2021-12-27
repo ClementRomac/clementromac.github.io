@@ -1,5 +1,5 @@
 ---
-title: "Minecraft Reinforcement Learning"
+title: "DRQN vs DQN in Minecraft"
 excerpt: "Deep Recurrent Q-Learning vs Deep Q Learning on a simple Partially Observable Markov Decision Process with Minecraft."
 collection: projects
 date: 2018-09-10
