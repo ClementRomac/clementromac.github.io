@@ -20,8 +20,8 @@ You can download my complete CV <a href="{{ site.url }}/files/CV_ROMAC_Clement.p
 * High School Diploma with honours, High School Les Iris Lormont, 2014
 
 ## Work experience
-* January 2022 - Current: PhD student - Hugging Face and Inria (FLOWERS team)
-  * Studying how autonomous Deep RL agents can leverage large Language Models
+* January 2022 - Current: PhD student - Inria (FLOWERS team) / Research Scientist - Hugging Face 
+  * Studying how autonomous Deep RL agents can leverage Large Language Models
 
 * September 2020 - December 2021: Research Engineer - Inria (FLOWERS team)
   * Working on an experimental platform to apply curiosity-driven algorithms to automatic scientific discovery in complex systems (e.g. self-organizing)
@@ -46,19 +46,19 @@ You can download my complete CV <a href="{{ site.url }}/files/CV_ROMAC_Clement.p
     * Barcode localization on drone pictures with Deep Learning
     * Data Exploration project
 
-* June 2016 - May 2017 : Part time Intern Data Scientist - Weenove
+* June 2016 - May 2017 : Part-time Intern Data Scientist - Weenove
   * Machine Learning R&D
     * Implemented an Automated Machine Learning service
     * Made this service available (Beta) in a Business Intelligence Software (Biwee)
 
-* Summer 2015: Intern Developer - Weenove
+* Summer 2015: Intern Software Engineer - Weenove
   * C# development of a Business Intelligence Software (Biwee)
   * Analysis of Open Data
   
 ## Skills
 * Machine Learning, Deep Learning, Reinforcement Learning
 * Development
-  * Python (Tensorflow, Scikit-Learn, Numpy)
+  * Python (Tensorflow, PyTorch, Numpy)
   * C#
   * C++
   * JavaScript
@@ -77,10 +77,10 @@ You can download my complete CV <a href="{{ site.url }}/files/CV_ROMAC_Clement.p
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-## Talks
+<!-- ## Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 ## Teaching
   <ul>{% for post in site.teaching reversed %}

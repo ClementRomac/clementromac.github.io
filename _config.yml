@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Clément Romac"
   avatar           : "profile.jpg"
-  bio              : "PhD student at Hugging Face and Inria (FLOWERS team). Studying how autonomous Deep RL agents can leverage large Language Models."
+  bio              : "PhD student at Hugging Face and Inria (FLOWERS team). Studying how autonomous Deep RL agents can leverage Large Language Models."
   location         : "Bordeaux, France"
   employer         :
   googlescholar    : "https://scholar.google.fr/citations?user=L7YK6t0AAAAJ&hl=fr"
@@ -178,9 +178,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  #talks:
+  #  output: true
+  #  permalink: /:collection/:path/
 
 
 # Defaults
@@ -231,13 +231,13 @@ defaults:
       share: true
       comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  #- scope:
+  #    path: ""
+  #    type: talks
+  #  values:
+  #    layout: talk
+  #    author_profile: true
+  #    share: true
 
 # Sass/SCSS
 sass:
