@@ -4,7 +4,7 @@ excerpt: "Class on Attention, Transformers and Large Language Models (8 hours) p
 collection: teaching
 type: "Class for last year engineering students"
 permalink: /teaching/2023-ensc-3a-ia
-venue: "ENSC, Engineering school, IA Specialisation"
+venue: "ENSC, Engineering school, AI Specialisation"
 date: 2023-10-20
 location: "Bordeaux, France"
 ---
@@ -24,4 +24,3 @@ Taught 8 hours on Attention, Transformers and Large Language Models to last year
   - Large Language Models (LLMs)
   - Encoder-Only LLMs
   - Decoder-Only LLMs
-  ...
