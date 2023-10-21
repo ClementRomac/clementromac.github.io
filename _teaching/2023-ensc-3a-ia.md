@@ -1,6 +1,6 @@
 ---
 title: "Transformers and LLMs - ENSC 3A IA"
-excerpt: "Class on Attention, Transformers and Large Language Models (8 hours) part of the AI specialisation to last year engineering students at ENSC Bordeaux (France)."
+excerpt: "Class on Attention, Transformers and Large Language Models (7 hours) part of the AI specialisation to last year engineering students at ENSC Bordeaux (France)."
 collection: teaching
 type: "Class for last year engineering students"
 permalink: /teaching/2023-ensc-3a-ia
@@ -9,7 +9,7 @@ date: 2023-10-20
 location: "Bordeaux, France"
 ---
 
-Taught 8 hours on Attention, Transformers and Large Language Models to last year students in engineering from the AI specialisation at [ENSC](https://ensc.bordeaux-inp.fr/fr) Bordeaux (France).
+Taught 7 hours on Attention, Transformers and Large Language Models to last year students in engineering from the AI specialisation at [ENSC](https://ensc.bordeaux-inp.fr/fr) Bordeaux (France).
 
 ## Syllabus
 - Attention & Transformers (<a href="{{ site.url }}/files/ENSC-IA-2023/Transformers_and_Attention.pdf" target="_blank">lesson</a>)
