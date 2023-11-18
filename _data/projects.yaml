@@ -1,0 +1,22 @@
+main:
+
+  - title: "ChatGPT expliqué en 5 minutes"
+    description: "A series of short videos explaining Large Language Models."
+    page: http://developmentalsystems.org/chatgpt_en_5_minutes/
+    image: ./assets/img/chatgpt-en-5-minutes.png
+
+  - title: "Lamorel"
+    description: "Lamorel is a Python library designed for RL practitioners eager to use Large Language Models (LLMs)."
+    code: https://github.com/flowersteam/lamorel
+    image: ./assets/img/lamorel.gif
+
+  - title: "Automated Discovery Tool"
+    description: "A software for assisted and automated discovery of patterns in the exploration of complex systems."
+    code: https://github.com/flowersteam/adtool
+    image: ./assets/img/ad-tool.gif
+
+  - title: "Interactive Deep RL Demo"
+    description: "In-browser interactive demo of Deep Reinforcement Learning agents' adaptation to unknown 2D tasks."
+    page: https://developmentalsystems.org/Interactive_DeepRL_Demo/
+    code: https://github.com/flowersteam/Interactive_DeepRL_Demo
+    image: ./assets/img/interactive-demo.png

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
+    <style type="text/css">
+    * {
+      -webkit-box-sizing: border-box;
+      box-sizing: border-box;
+    }
+
+    body { font-family: sans-serif; }
+
+    .gallery {
+      background: #EEE;
+    }
+
+    .gallery-cell {
+      width: 66%;
+      height: 600px;
+      margin-right: 10px;
+      /*counter-increment: gallery-cell;*/
+      text-align: center;
+    }
+
+    .gallery-cell img {
+      height: 550px;
+      object-fit: contain;
+    }
+
+    /* cell number */
+    .gallery-cell:before {
+      display: block;
+      text-align: center;
+      /*content: counter(gallery-cell);*/
+      line-height: 600px;
+      font-size: 80px;
+      color: white;
+    }
+    </style>
+  </head>
+  <body>
+    <a href="../../"><h2>Retour</h2></a>
+    <div class="wrapper">
+      <div class="gallery js-flickity"
+      data-flickity-options='{ "wrapAround": true }'>
+      <div class="gallery-cell">
+        <img src="../../assets/img/hiking/1.jpg"/>
+        <p>Pic des Spijeoles 2023</p>
+      </div>
+      <div class="gallery-cell">
+        <img src="../../assets/img/hiking/2.jpg"/>
+        <p>Pic d'Anie 2022</p>
+      </div>
+      <div class="gallery-cell">
+        <img src="../../assets/img/hiking/3.jpg"/>
+        <p>Pic d'Anie 2022</p>
+      </div>
+      <div class="gallery-cell">
+        <img src="../../assets/img/hiking/4.jpg"/>
+        <p>Grand tour du Balaitous 2022</p>
+      </div>
+      <div class="gallery-cell">
+        <img src="../../assets/img/hiking/5.jpg"/>
+        <p>Grand tour du Balaitous 2022</p>
+      </div>
+      <div class="gallery-cell">
+        <img src="../../assets/img/hiking/6.jpg"/>
+        <p>Pic du midi d'Ossau 2022</p>
+      </div>
+      <div class="gallery-cell">
+        <img src="../../assets/img/hiking/7.jpg"/>
+        <p>Pic du midi d'Ossau 2022</p>
+      </div>
+      <div class="gallery-cell">
+        <img src="../../assets/img/hiking/8.jpg"/>
+        <p>Pic du midi d'Ossau 2022</p>
+      </div>
+      <div class="gallery-cell">
+        <img src="../../assets/img/hiking/9.jpg"/>
+        <p>Grand tour de la Tena 2022</p>
+      </div>
+      <div class="gallery-cell">
+        <img src="../../assets/img/hiking/10.jpg"/>
+        <p>Gavarnie 2022</p>
+      </div>
+      <div class="gallery-cell">
+        <img src="../../assets/img/hiking/11.jpg"/>
+        <p>Montagnon / Bergon 2023</p>
+      </div>
+      <div class="gallery-cell">
+        <img src="../../assets/img/hiking/12.jpg"/>
+        <p>Montagnon / Bergon 2023</p>
+      </div>
+    </div>
+    <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+  </body>
+</html>

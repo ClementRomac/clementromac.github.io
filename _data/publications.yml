@@ -1,0 +1,44 @@
+main:
+
+  - title: Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning
+    authors: Thomas Carta, <strong>Clément Romac</strong>, Thomas Wolf, Sylvain Lamprier, Olivier Sigaud, Pierre-Yves Oudeyer
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2302.02662.pdf
+    code: https://github.com/flowersteam/Grounding_LLMs_with_online_RL
+    bibtex: 
+    image: ./assets/img/glam.png
+    notes: Poster
+
+  - title: "TeachMyAgent: a Benchmark for Automatic Curriculum Learning in Deep RL"
+    authors: <strong>Clément Romac</strong>, Rémy Portelas, Katja Hofmann, Pierre-Yves Oudeyer
+    conference_short: ICML
+    conference:  International Conference on Machine Learning <strong>(ICML)</strong>, 2021.
+    pdf: https://arxiv.org/pdf/2103.09815.pdf
+    code: https://github.com/flowersteam/TeachMyAgent
+    page: https://developmentalsystems.org/TeachMyAgent/
+    bibtex: 
+    notes: Poster
+    image: ./assets/img/teachmyagent.png
+
+  - title: Meta Automatic Curriculum Learning
+    authors: Rémy Portelas, <strong>Clément Romac</strong>, Katja Hofmann, Pierre-Yves Oudeyer
+    conference_short: 
+    conference: Preprint, 2020
+    pdf: https://arxiv.org/pdf/2011.08463.pdf
+    code: https://github.com/flowersteam/meta-acl
+    page: https://sites.google.com/view/meta-acl
+    bibtex: 
+    image: ./assets/img/meta-acl.png
+    notes: 
+
+  - title: Deep Recurrent Q-Learning vs Deep Q-Learning on a simple Partially Observable Markov Decision Process with Minecraft
+    authors: <strong>Clément Romac</strong>, Vincent Beraud
+    conference_short:
+    conference: Preprint, 2019
+    pdf: https://arxiv.org/pdf/1903.04311.pdf
+    code: https://github.com/vincentberaud/Minecraft-Reinforcement-Learning
+    page: 
+    bibtex: 
+    notes: 
+    image: ./assets/img/drqn-minecraft.png
