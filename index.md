@@ -16,7 +16,6 @@ I'm now a Research Scientist at Hugging Face and second year PhD student jointly
 
 ## News
 
-- **[Nov. 2023]** **We are looking for an intern in the FLOWERS team to [study the impact of RL-based grounding methods on LLMs](http://pyoudeyer.com/InternshipImpactRLBasedGroundingLLMs.pdf).**
 - **[Nov. 2023]** The [fifth episode](http://developmentalsystems.org/chatgpt_en_5_minutes/) of our "ChatGPT en 5 minutes" series is out!
 - **[Oct. 2023]** Teaching 7 hours on Attention, Transformers and Large Language Models to last year students in engineering from the AI specialisation at [ENSC](https://ensc.bordeaux-inp.fr/fr) Bordeaux (France): [P1](./assets/files/ENSC-IA-2023/Transformers_and_Attention.pdf) / [P2](./assets/files/ENSC-IA-2023/LLMs.pdf).
 - **[Sep. 2023]** Co-animating [a workshop](https://www.acteurs-ecoles.fr/page-d-accueil/l-an-%C3%A9-les-4%C3%A8mes-boussoles-du-num%C3%A9rique-27-septembre-2023/) for French teachers on AI and its impact.
