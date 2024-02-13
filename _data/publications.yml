@@ -6,6 +6,7 @@ main:
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2302.02662.pdf
     code: https://github.com/flowersteam/Grounding_LLMs_with_online_RL
+    page: https://sites.google.com/view/grounding-llms-with-online-rl/
     bibtex: 
     image: ./assets/img/glam.png
     notes: Poster

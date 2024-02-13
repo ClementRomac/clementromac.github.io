@@ -1,9 +1,9 @@
 main:
 
-  - title: "ChatGPT expliqué en 5 minutes"
+  - title: "ChatGPT explained in 5 minutes"
     description: "A series of short videos explaining Large Language Models."
-    page: http://developmentalsystems.org/chatgpt_en_5_minutes/
-    image: ./assets/img/chatgpt-en-5-minutes.png
+    page: http://developmentalsystems.org/chatgpt_5_minutes/
+    image: ./assets/img/chatgpt-5-minutes.png
 
   - title: "Lamorel"
     description: "Lamorel is a Python library designed for RL practitioners eager to use Large Language Models (LLMs)."
