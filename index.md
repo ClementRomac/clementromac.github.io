@@ -15,8 +15,8 @@ I'm now a Research Scientist at Hugging Face and second year PhD student jointly
 - **Large Language Models:** Grounding, NLG as decision-making
 
 ## News
-
-- **[Nov. 2023]** The [fifth episode](http://developmentalsystems.org/chatgpt_5_minutes/) of our "ChatGPT en 5 minutes" series is out!
+- **[Mar. 2024]** The [english version](http://developmentalsystems.org/chatgpt_5_minutes/en/) of our "ChatGPT in 5 minutes" series is out!
+- **[Feb. 2024]** The [sixth episode](http://developmentalsystems.org/chatgpt_5_minutes/fr/) of our "ChatGPT en 5 minutes" series has been publishrd.
 - **[Oct. 2023]** Teaching 7 hours on Attention, Transformers and Large Language Models to last year students in engineering from the AI specialisation at [ENSC](https://ensc.bordeaux-inp.fr/fr) Bordeaux (France): [P1](./assets/files/ENSC-IA-2023/Transformers_and_Attention.pdf) / [P2](./assets/files/ENSC-IA-2023/LLMs.pdf).
 - **[Sep. 2023]** Co-animating [a workshop](https://www.acteurs-ecoles.fr/page-d-accueil/l-an-%C3%A9-les-4%C3%A8mes-boussoles-du-num%C3%A9rique-27-septembre-2023/) for French teachers on AI and its impact.
 - **[Jul. 2023]** Don't miss [our poster session](https://icml.cc/virtual/2023/poster/23938) at ICML 23' in Hawaii!
