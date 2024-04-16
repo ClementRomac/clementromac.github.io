@@ -16,6 +16,7 @@ I'm now a Research Scientist at Hugging Face and a second-year PhD student joint
 
 ## News
 - **[Mar. 2024]** The [english version](http://developmentalsystems.org/chatgpt_5_minutes/en/) of our "ChatGPT in 5 minutes" series is out!
+- **[Feb. 2024]** Our large-audience article on grounding LLMs is on the front-page of [Pour la Science]([http://developmentalsystems.org/chatgpt_5_minutes/fr/](https://www.pourlascience.fr/sd/informatique/les-algorithmes-des-ia-peuvent-ils-comprendre-notre-monde-26131.php)) February edition.
 - **[Feb. 2024]** The [sixth episode](http://developmentalsystems.org/chatgpt_5_minutes/fr/) of our "ChatGPT en 5 minutes" series has been published.
 - **[Oct. 2023]** Teaching 7 hours on Attention, Transformers and Large Language Models to last year students in engineering from the AI specialisation at [ENSC](https://ensc.bordeaux-inp.fr/fr) Bordeaux (France): [P1](./assets/files/ENSC-IA-2023/Transformers_and_Attention.pdf) / [P2](./assets/files/ENSC-IA-2023/LLMs.pdf).
 - **[Sep. 2023]** Co-animating [a workshop](https://www.acteurs-ecoles.fr/page-d-accueil/l-an-%C3%A9-les-4%C3%A8mes-boussoles-du-num%C3%A9rique-27-septembre-2023/) for French teachers on AI and its impact.
