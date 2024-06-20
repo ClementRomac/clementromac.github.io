@@ -1,14 +1,14 @@
 main:
   - title: "Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent"
     authors: Quentin Gallouédec, Edward Beeching, <strong>Clément Romac</strong>, Emmanuel Dellandrea
-    conference_short: 
-    conference: Preprint, 2024
+    conference_short: ARLET Workshop
+    conference: ARLET Workshop, ICML 2024
     pdf: https://arxiv.org/pdf/2402.09844.pdf
     code: https://github.com/huggingface/jat
     page: https://huggingface.co/blog/jat
     bibtex: 
     image: ./assets/img/jat.png
-    notes: 
+    notes: Poster
 
   - title: Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning
     authors: Thomas Carta, <strong>Clément Romac</strong>, Thomas Wolf, Sylvain Lamprier, Olivier Sigaud, Pierre-Yves Oudeyer
