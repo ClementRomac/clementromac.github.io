@@ -1,8 +1,19 @@
 main:
+  - title: SAC-GLAM: Improving Online RL for LLM agents with Soft Actor-Critic and Hindsight Relabeling
+    authors: Loris Gaven, <strong>Clément Romac</strong>, Thomas Carta, Sylvain Lamprier, Olivier Sigaud, Pierre-Yves Oudeyer
+    conference_short: IMOL Workshop
+    conference: IMOL Workshop, NeurIPS 2024.
+    pdf: https://arxiv.org/abs/2410.12481
+    code: 
+    page: 
+    bibtex: 
+    image: ./assets/img/sac-glam.png
+    notes: Poster
+
   - title: "Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent"
     authors: Quentin Gallouédec, Edward Beeching, <strong>Clément Romac</strong>, Emmanuel Dellandrea
     conference_short: ARLET Workshop
-    conference: ARLET Workshop, ICML 2024
+    conference: ARLET Workshop, ICML 2024.
     pdf: https://arxiv.org/pdf/2402.09844.pdf
     code: https://github.com/huggingface/jat
     page: https://huggingface.co/blog/jat
