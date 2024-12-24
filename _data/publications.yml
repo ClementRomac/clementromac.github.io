@@ -1,5 +1,5 @@
 main:
-  - title: SAC-GLAM: Improving Online RL for LLM agents with Soft Actor-Critic and Hindsight Relabeling
+  - title: "SAC-GLAM: Improving Online RL for LLM agents with Soft Actor-Critic and Hindsight Relabeling"
     authors: Loris Gaven, <strong>Clément Romac</strong>, Thomas Carta, Sylvain Lamprier, Olivier Sigaud, Pierre-Yves Oudeyer
     conference_short: IMOL Workshop
     conference: IMOL Workshop, NeurIPS 2024.
