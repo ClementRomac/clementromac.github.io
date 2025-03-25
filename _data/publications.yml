@@ -18,7 +18,7 @@ main:
     code: 
     page: 
     bibtex: 
-    image: ./assets/img/contrastive-glam.png
+    image: ./assets/img/contrastive_glam.png
     notes: Poster
 
   - title: "SAC-GLAM: Improving Online RL for LLM agents with Soft Actor-Critic and Hindsight Relabeling"
