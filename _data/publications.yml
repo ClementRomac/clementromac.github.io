@@ -1,5 +1,5 @@
 main:
-    - title: "MAGELLAN: Metacognitive predictions of learning progress guide autotelic LLM agents in large goal spaces"
+  - title: "MAGELLAN: Metacognitive predictions of learning progress guide autotelic LLM agents in large goal spaces"
     authors: Loris Gaven, Thomas Carta, <strong>Clément Romac</strong>, Sylvain Lamprier, Olivier Sigaud, Pierre-Yves Oudeyer
     conference_short:
     conference: Preprint, 2024
@@ -10,7 +10,7 @@ main:
     image: ./assets/img/magellan.png
     notes:
 
-    - title: "Reinforcement Learning for Aligning Large Language Models Agents with Interactive Environments: Quantifying and Mitigating Prompt Overfitting"
+  - title: "Reinforcement Learning for Aligning Large Language Models Agents with Interactive Environments: Quantifying and Mitigating Prompt Overfitting"
     authors: Mohamed Salim Aissi, <strong>Clement Romac</strong>, Thomas Carta, Sylvain Lamprier, Pierre-Yves Oudeyer, Olivier Sigaud, Laure Soulier, Nicolas Thome
     conference_short: NAACL Findings
     conference: NAACL Findings 2025.
