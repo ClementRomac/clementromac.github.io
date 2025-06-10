@@ -1,14 +1,24 @@
 main:
+  - title: "WorldLLM: Improving LLMs' world modeling using curiosity-driven theory-making"
+    authors: Guillaume Levy, Cedric Colas, Pierre-Yves Oudeyer, Thomas Carta, <strong>Clement Romac</strong>
+    conference_short: RLDM
+    conference: Multi-disciplinary Conference on Reinforcement Learning and Decision Making (<strong>RLDM</strong>) 2025
+    pdf: https://www.arxiv.org/abs/2506.06725
+    code: https://github.com/flowersteam/WorldLLM
+    page: 
+    bibtex: 
+    image: ./assets/img/worldllm.png
+    notes: Poster
   - title: "MAGELLAN: Metacognitive predictions of learning progress guide autotelic LLM agents in large goal spaces"
     authors: Loris Gaven, Thomas Carta, <strong>Clément Romac</strong>, Sylvain Lamprier, Olivier Sigaud, Pierre-Yves Oudeyer
-    conference_short:
-    conference: Preprint, 2024
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2025.
     pdf: https://arxiv.org/abs/2502.07709
     code: https://github.com/flowersteam/MAGELLAN
     page: 
     bibtex: 
     image: ./assets/img/magellan.png
-    notes:
+    notes: Poster
 
   - title: "Reinforcement Learning for Aligning Large Language Models Agents with Interactive Environments: Quantifying and Mitigating Prompt Overfitting"
     authors: Mohamed Salim Aissi, <strong>Clement Romac</strong>, Thomas Carta, Sylvain Lamprier, Pierre-Yves Oudeyer, Olivier Sigaud, Laure Soulier, Nicolas Thome
@@ -76,13 +86,13 @@ main:
     image: ./assets/img/meta-acl.png
     notes: 
 
-  - title: Deep Recurrent Q-Learning vs Deep Q-Learning on a simple Partially Observable Markov Decision Process with Minecraft
-    authors: <strong>Clément Romac</strong>, Vincent Beraud
-    conference_short:
-    conference: Preprint, 2019
-    pdf: https://arxiv.org/pdf/1903.04311.pdf
-    code: https://github.com/vincentberaud/Minecraft-Reinforcement-Learning
-    page: 
-    bibtex: 
-    notes: 
-    image: ./assets/img/drqn-minecraft.png
+  # - title: Deep Recurrent Q-Learning vs Deep Q-Learning on a simple Partially Observable Markov Decision Process with Minecraft
+  #   authors: <strong>Clément Romac</strong>, Vincent Beraud
+  #   conference_short:
+  #   conference: Preprint, 2019
+  #   pdf: https://arxiv.org/pdf/1903.04311.pdf
+  #   code: https://github.com/vincentberaud/Minecraft-Reinforcement-Learning
+  #   page: 
+  #   bibtex: 
+  #   notes: 
+  #   image: ./assets/img/drqn-minecraft.png
