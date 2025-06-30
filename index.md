@@ -11,7 +11,7 @@ I am also co-animating the [Machine Learning Meetup group](https://www.meetup.co
 
 
 ## Research Interests
-My research focuses on Reinforcement Learning (RL) and how it can shape artificial agents' knowledge. I notably study how Large Language Models (LLMs) can be grounded through online interactions with an environment using RL. I am interested in open-ended learning setups and my reseach often involves methods such as curiosity-driven RL or Automatic Curriculum Learning.
+My research focuses on Reinforcement Learning (RL) and how it can shape artificial agents' knowledge. I notably study how Large Language Models (LLMs) can be grounded through online interactions with an environment using RL. I am interested in open-ended learning setups and my research often involves methods such as curiosity-driven RL or Automatic Curriculum Learning.
 
 ## News
 - **[June 2025]** We're presenting our [WorldLLM](https://www.arxiv.org/abs/2506.06725) paper at RLDM 2025!
