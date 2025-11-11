@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-Hi, I am Clément Romac. I am a Research Scientist at Hugging Face and a last-year PhD student jointly supervised by Pierre-Yves Oudeyer ([FLOWERS team, Inria Bordeaux](https://flowers.inria.fr/)) and Thomas Wolf (Hugging Face), studying how curiosity-driven RL can help ground Large Language Models. My PhD is expected to finish around the end of 2025, and **I am now looking for postdoctoral positions related to RL, curiosity-driven learning, or language grounding through embodied interactions**. If you are interested, do not hesitate to reach out!
+Hi, I am Clément Romac. I am a Research Scientist at Hugging Face and a last-year PhD student jointly supervised by Pierre-Yves Oudeyer ([FLOWERS team, Inria Bordeaux](https://flowers.inria.fr/)) and Thomas Wolf (Hugging Face), studying how curiosity-driven RL can help ground Large Language Models.
+
+<!--My PhD is expected to finish around the end of 2025, and **I am now looking for postdoctoral positions related to RL, curiosity-driven learning, or language grounding through embodied interactions**. If you are interested, do not hesitate to reach out!-->
 
 Previously, I worked as a Machine Learning Engineer at [Weenove](https://www.weenove.fr/) and as a Research Engineer in the FLOWERS team working on [Automatic Curriculum Learning for Deep RL](https://github.com/flowersteam/TeachMyAgent) and [automated scientific discovery in complex systems](https://github.com/flowersteam/adtool). Apart from research, I have also been involved in various dissemination initiatives, in particular towards education (e.g., I am co-leading the development of the ["ChatGPT explained in 5 minutes" series of videos](https://developmentalsystems.org/chatgpt_5_minutes/en/) that is used in French classrooms and now embedded in official trainings for workers from all French ministries). I am also the co-organizer of the [Machine Learning Meetup group](https://www.meetup.com/fr-FR/Bordeaux-Machine-Learning-Meetup/) of Bordeaux. 
 
