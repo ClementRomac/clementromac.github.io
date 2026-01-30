@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi, I am Clément Romac. I am a Research Scientist at Hugging Face and a last-year PhD student jointly supervised by Pierre-Yves Oudeyer ([FLOWERS team, Inria Bordeaux](https://flowers.inria.fr/)) and Thomas Wolf (Hugging Face), studying how curiosity-driven RL can help ground Large Language Models.
+Hi, I am Clément Romac. I recently completed my PhD ([manuscript](../../assets/files/PhD_manuscript_en.pdf)/[defense slides](../../assets/files/PhD_defense.pdf)) jointly supervised by Pierre-Yves Oudeyer ([FLOWERS team, Inria Bordeaux](https://flowers.inria.fr/)) and Thomas Wolf (Hugging Face), studying how curiosity-driven RL can help ground Large Language Models.
 
 <!--My PhD is expected to finish around the end of 2025, and **I am now looking for postdoctoral positions related to RL, curiosity-driven learning, or language grounding through embodied interactions**. If you are interested, do not hesitate to reach out!-->
 
@@ -15,6 +15,7 @@ Previously, I worked as a Machine Learning Engineer at [Weenove](https://www.wee
 My research focuses on artificial agents' knowledge and skill acquisition through curiosity-driven Reinforcement Learning (RL). My PhD work notably focused on how curiosity-driven RL can ground Large Language Models (LLMs) through online interactions with an environment. I also studied how artificial (autotelic) agents can select their own goals using Automatic Curriculum Learning.
 
 ## News
+- **[Jan. 2026]** I defended my PhD! Here is the [manuscript](../../assets/files/PhD_manuscript_en.pdf), and the [defense slides](../../assets/files/PhD_defense.pdf).
 - **[Sep. 2025]** I gave an invited talk at the [SMILES](https://sites.google.com/view/smiles-workshop/) workshop at ICDL on "Grounding LLMs through curiosity-driven online RL".
 - **[Sep. 2025]** We're presenting [MAGELLAN](https://arxiv.org/abs/2502.07709) at the [International Workshop on Intrinsically Motivated Open-ended Learning (IMOL)]([https://sites.google.com/view/metacognitivescience/home](https://imol2025.github.io/)).
 - **[Aug. 2025]** We're presenting [MAGELLAN](https://arxiv.org/abs/2502.07709) at the ["Metacognitive Science" satellite event at CCN](https://sites.google.com/view/metacognitivescience/home).
