@@ -4,18 +4,22 @@ layout: homepage
 
 ## About Me
 
-Hi, I am Clément Romac. I recently completed my PhD ([manuscript](../../assets/files/PhD_manuscript_en.pdf)) jointly supervised by Pierre-Yves Oudeyer ([FLOWERS team, Inria Bordeaux](https://flowers.inria.fr/)) and Thomas Wolf (Hugging Face), studying how curiosity-driven RL can help ground Large Language Models. I am currently holding a research engineer position at Inria Bordeaux studying curiosity models, LLMs, and automatic curriculum learning for educational technologies.
+
+I am Clément Romac. I'm currently a Postdoctoral researcher at [Valeo.ai](https://valeoai.github.io/) studying RL for autonomous driving.
+
+Before that, I completed my PhD ([manuscript](../../assets/files/PhD_manuscript_en.pdf)) jointly supervised by Pierre-Yves Oudeyer (FLOWERS team, Inria Bordeaux) and Thomas Wolf (Hugging Face), studying how curiosity-driven RL can help ground Large Language Models. I then held a research engineer position at Inria Bordeaux studying curiosity models, LLMs, and Automatic Curriculum Learning for educational technologies.
 
 <!--My PhD is expected to finish around the end of 2025, and **I am now looking for postdoctoral positions related to RL, curiosity-driven learning, or language grounding through embodied interactions**. If you are interested, do not hesitate to reach out!-->
 
-Previously, I worked as a Machine Learning Engineer at [Weenove](https://www.weenove.fr/) and as a Research Engineer in the FLOWERS team working on [Automatic Curriculum Learning for Deep RL](https://github.com/flowersteam/TeachMyAgent) and [automated scientific discovery in complex systems](https://github.com/flowersteam/adtool). Apart from research, I have also been involved in various dissemination initiatives, in particular towards education (e.g., I am co-leading the development of the ["ChatGPT explained in 5 minutes" series of videos](https://developmentalsystems.org/chatgpt_5_minutes/en/) that is used in French classrooms and now embedded in official trainings for workers from all French ministries). I am also the co-organizer of the [Machine Learning Meetup group](https://www.meetup.com/fr-FR/Bordeaux-Machine-Learning-Meetup/) of Bordeaux. 
+Before my PhD, I worked as a Machine Learning Engineer at [Weenove](https://www.weenove.fr/) and as a Research Engineer in the FLOWERS team working on [Automatic Curriculum Learning for Deep RL](https://github.com/flowersteam/TeachMyAgent) and [automated scientific discovery in complex systems](https://github.com/flowersteam/adtool). Apart from research, I have also been involved in various dissemination initiatives, in particular towards education (e.g., I am co-leading the development of the ["ChatGPT explained in 5 minutes" series of videos](https://developmentalsystems.org/chatgpt_5_minutes/en/) that is used in French classrooms and now embedded in official trainings for workers from all French ministries). I am also the co-organizer of the [Machine Learning Meetup group](https://www.meetup.com/fr-FR/Bordeaux-Machine-Learning-Meetup/) of Bordeaux. 
 
 
 ## Research Interests
 My research focuses on artificial agents' knowledge and skill acquisition through curiosity-driven Reinforcement Learning (RL). My PhD work notably focused on how curiosity-driven RL can ground Large Language Models (LLMs) through online interactions with an environment. I also studied how artificial (autotelic) agents can select their own goals using Automatic Curriculum Learning.
 
 ## News
-- **[May 2026]** Our PRISM paper got accepted at ICML 2026! More to come about that soon...
+- **[October 2026]** I joined [Valeo.ai](https://valeoai.github.io/) as a Postdoctoral researcher!
+- **[May 2026]** Our [PRISM](https://arxiv.org/abs/2605.05407) paper got accepted at ICML 2026.
 - **[Jan. 2026]** I defended my PhD! Here is the [manuscript](../../assets/files/PhD_manuscript_en.pdf), as well as the [slides](../../assets/files/PhD_defense.pdf) and [record](https://www.youtube.com/watch?v=rgImEu4q7Jc) of the defense.
 - **[Sep. 2025]** I gave an invited talk at the [SMILES](https://sites.google.com/view/smiles-workshop/) workshop at ICDL on "Grounding LLMs through curiosity-driven online RL".
 - **[Sep. 2025]** We're presenting [MAGELLAN](https://arxiv.org/abs/2502.07709) at the [International Workshop on Intrinsically Motivated Open-ended Learning (IMOL)]([https://sites.google.com/view/metacognitivescience/home](https://imol2025.github.io/)).
