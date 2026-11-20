@@ -19,7 +19,7 @@ My research focuses on artificial agents' knowledge and skill acquisition throug
 
 ## News
 - **[October 2026]** I joined [Valeo.ai](https://valeoai.github.io/) as a Postdoctoral researcher!
-- **[May 2026]** Our [PRISM](https://arxiv.org/abs/2605.05407) paper got accepted at ICML 2026.
+- **[May 2026]** Our PRISM paper got accepted at ICML 2026! Check out the [paper](https://arxiv.org/abs/2605.05407).
 - **[Jan. 2026]** I defended my PhD! Here is the [manuscript](../../assets/files/PhD_manuscript_en.pdf), as well as the [slides](../../assets/files/PhD_defense.pdf) and [record](https://www.youtube.com/watch?v=rgImEu4q7Jc) of the defense.
 - **[Sep. 2025]** I gave an invited talk at the [SMILES](https://sites.google.com/view/smiles-workshop/) workshop at ICDL on "Grounding LLMs through curiosity-driven online RL".
 - **[Sep. 2025]** We're presenting [MAGELLAN](https://arxiv.org/abs/2502.07709) at the [International Workshop on Intrinsically Motivated Open-ended Learning (IMOL)]([https://sites.google.com/view/metacognitivescience/home](https://imol2025.github.io/)).
